@@ -11,7 +11,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -34,10 +33,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -74,15 +69,8 @@ How to display an image over another one when hover over it.
 ### Continued development
 i look forward to improving my skills on media query (varying resolution)
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-
 ## Author
 
 - Website - [Raymond Munonye](https://www.your-site.com)
 - Frontend Mentor - [@Raymond023](https://www.frontendmentor.io/profile/Raymond023)
 - Twitter - [@thegraykid](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
