@@ -24,8 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://nftcardpreviewfec.netlify.app)
 
 ## My process
 
@@ -71,6 +70,6 @@ i look forward to improving my skills on media query (varying resolution)
 
 ## Author
 
-- Website - [Raymond Munonye](https://www.your-site.com)
+- Website - [Raymond Munonye](https://nftcardpreviewfec.netlify.app)
 - Frontend Mentor - [@Raymond023](https://www.frontendmentor.io/profile/Raymond023)
-- Twitter - [@thegraykid](https://www.twitter.com/yourusername)
+- Twitter - [@thegraykid](https://www.twitter.com/thegraykid)
